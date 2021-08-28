@@ -1,0 +1,5 @@
+Credentials cache: API:4D8DA373-83C9-41DC-9EC1-42E7D671AE3B
+        Principal: takishim@42TOKYO.JP
+
+  Issued                Expires               Principal
+Aug  5 17:16:27 2021  Aug  6 03:16:27 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
